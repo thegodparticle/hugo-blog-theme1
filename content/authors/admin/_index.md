@@ -1,7 +1,7 @@
 ---
 title: Niyazi Arslan
 role: ""
-avatar_filename: avatar.jpg
+avatar_filename: avatar.png
 bio: ""
 social:
   - icon: envelope
