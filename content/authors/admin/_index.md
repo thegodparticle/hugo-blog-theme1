@@ -6,14 +6,8 @@ social:
   - icon: envelope
     icon_pack: ai
     link: narslan@asu.edu
-  - icon: twitter
-    icon_pack: ai
-    link: https://www.linkedin.com/in/niyazi-arslan/
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/geocushen
 organizations:
-  - name: 腾讯
+  - name: Arizona State University
     url: ""
 superuser: true
 status:
