@@ -7,6 +7,11 @@ social:
   - icon: envelope
     icon_pack: ai
     link: narslan@asu.edu
+  - display:
+      header: false
+    link: https://www.researchgate.net/profile/Niyazi_Arslan3
+    icon_pack: far
+    icon: researchgate
 organizations:
   - name: Arizona State University
     url: ""
