@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: custom
-  theme_night: custom
-  font: minimal
+  theme_day: Earth
+  theme_night: Coffee
+  font: family=Playfair+Display
   font_size: L
 
 # SEO
@@ -61,9 +61,9 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true
   repository:
     url: 'https://github.com/<username>/<repository>'
     content_dir: content

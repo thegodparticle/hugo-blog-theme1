@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+ Hey! I'm **Niyazi**, a PhD Student at Arizona State University.
 
-Check out my [CV](/about/) and blog posts below 🌈
+Check out my [CV](/about/) and blog posts below 
