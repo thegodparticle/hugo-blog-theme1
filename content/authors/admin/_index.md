@@ -7,14 +7,21 @@ social:
   - icon: envelope
     icon_pack: ai
     link: narslan@asu.edu
+    label: ""
   - display:
       header: false
     link: https://www.researchgate.net/profile/Niyazi_Arslan3
     icon_pack: far
     icon: researchgate
+  - display:
+      header: false
+    link: https://scholar.google.com/citations?hl=en&user=cTzzqvMAAAAJ
+    icon_pack: far
+    icon: google-scholar
+    label: ""
 organizations:
   - name: Arizona State University
-    url: ""
+    url: https://search.asu.edu/profile/3630640
 superuser: true
 status:
   icon: ☕️
